@@ -20,7 +20,6 @@
     "url": "git+https://github.com/behaver/nutation.git"
   },
   "dependencies": {
-    "@behaver/angle": "^2.0.1",
     "@behaver/jdate": "^2.0.3"
   },
   "devDependencies": {
