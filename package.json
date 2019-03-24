@@ -20,10 +20,13 @@
     "url": "git+https://github.com/behaver/nutation.git"
   },
   "dependencies": {
-    "@behaver/jdate": "^2.3.0"
+    "@behaver/jdate": "^2.3.2"
   },
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^5.2.0"
-  }
+  },
+  "files": [
+    "data"
+  ]
 }
